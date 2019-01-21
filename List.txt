@@ -1,0 +1,25 @@
+Economics		
+Ethics		
+Computer Law		
+Management Principles		
+Entrepreneurship		
+Server Administration I		
+Server Administration II		
+Networking Concepts I		
+Networking Concepts II		
+Security Concepts I		
+Introduction to Operating Systems		
+Linux Operating Systems I		
+Critical Thinking		
+Programming Logic and Design I		
+Programming Logic and Design II		
+Database Programming I		
+.NET Programming I		
+Database Programming II		
+Web Server Programming I		
+.NET Programming II		
+.NET Programming III		
+Database Programming III		
+Programming I		
+Web Server Programming II		
+Programming III		
